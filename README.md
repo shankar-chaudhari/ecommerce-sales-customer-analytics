@@ -37,7 +37,7 @@ The project uses the [Online Retail dataset from the UCI Machine Learning Reposi
 
 ## Dashboard
 
-I'll add screenshots of the Power BI dashboard here so the main findings can be viewed directly from the repository.
+![E-Commerce Sales & Customer Analytics Dashboard](executive-dashboard.png)
 
 ## Project Status
 
