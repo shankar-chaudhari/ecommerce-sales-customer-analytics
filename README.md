@@ -11,7 +11,7 @@ I used Python to clean and analyse the data, then built an interactive dashboard
 - **Python** – Data cleaning and analysis
 - **Pandas and NumPy** – Working with and transforming data
 - **Exploratory Data Analysis (EDA)** – Finding patterns and trends in the data
-- **Power BI** – Building the interactive dashboard
+- **Power BI** – Building the interactive dashboard 
 - **DAX** – Creating measures and calculating key performance indicators (KPIs)
 
 ## Dataset
